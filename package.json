@@ -1,0 +1,20 @@
+{
+  "name": "npm-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zbmovo <zbmovo@qq.com> (https://github.com/zbmovo)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zbmovo/npm-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zbmovo/npm-builder/issues"
+  },
+  "homepage": "https://github.com/zbmovo/npm-builder#readme"
+}
